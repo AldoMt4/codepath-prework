@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Aldo Mata"; ObjectID = "HQl-vO-GCv"; */
+"HQl-vO-GCv.text" = "Aldo Mata";
+
+/* Class = "UILabel"; text = "New Mexico State University "; ObjectID = "ZZ2-xd-Xrs"; */
+"ZZ2-xd-Xrs.text" = "New Mexico State University ";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "kBl-JP-cwK"; */
+"kBl-JP-cwK.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kBl-JP-cwK"; */
+"kBl-JP-cwK.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Cybersecurity Analyst"; ObjectID = "lbL-pa-tpz"; */
+"lbL-pa-tpz.text" = "Cybersecurity Analyst";
